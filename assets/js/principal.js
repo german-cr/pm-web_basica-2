@@ -1,1 +1,16 @@
 // funciones principales del sistema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
