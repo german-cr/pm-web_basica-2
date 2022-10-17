@@ -7,7 +7,7 @@
 
 
 
-
+// aquí va la función que realizar el llamado remoto 1
 
 
 
